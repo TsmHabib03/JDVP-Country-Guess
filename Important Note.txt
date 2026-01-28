@@ -1,0 +1,1 @@
+Pa import ng sql sa php my admin
